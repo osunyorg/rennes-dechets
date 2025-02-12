@@ -2,6 +2,11 @@
 
 baseURL: https://dechets.rennes.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 2cb0b68e-bd8f-4f89-9c36-471ba777d60d
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
