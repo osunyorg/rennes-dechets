@@ -1,7 +1,10 @@
 ---
 name: 9e5922d2c85043c896ba71f7b0c3c3fc-full-image.jpg
 size: 492675
-format: square
+width: 1152
+height: 648
+ratio: 1.7777777777777777
+format: landscape
 url: https://rennes.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImI1NTI0MzEwLTBhYzQtNDQ1MC1iYzEzLTQyNmIwMTE1ZjIwMiIsInB1ciI6ImJsb2JfaWQifX0=--e7fc21071b50721dd5dd55b01a7d3c2de8dff93a/9e5922d2c85043c896ba71f7b0c3c3fc-full-image.jpg
 direct_url: https://osuny.s3.fr-par.scw.cloud/3helzl19ajsg42n9m9uqi3di9nu8
 download_url: https://rennes.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6ImI1NTI0MzEwLTBhYzQtNDQ1MC1iYzEzLTQyNmIwMTE1ZjIwMiIsInB1ciI6ImJsb2JfaWQifX0=--e7fc21071b50721dd5dd55b01a7d3c2de8dff93a
